@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="1" failures="0" errors="0" time="10.945">
+  <testsuite name="Krpl Check Salary Insights" errors="0" failures="0" skipped="0" timestamp="2023-03-13T14:54:55" time="10.743" tests="1">
+    <testcase classname="Krpl Check Salary Insights Check Salary Insight - role and country" name="Krpl Check Salary Insights Check Salary Insight - role and country" time="3.406">
+    </testcase>
+  </testsuite>
+</testsuites>

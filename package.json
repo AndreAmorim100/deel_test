@@ -1,0 +1,17 @@
+{
+  "description": "e2e Krepling Tests",
+  "scripts": {
+    "salaryInsights": "jest salaryInsights.test.js --config=.jestrc.json"
+  },
+  "author": "Andre Amorim",
+  "dependencies": {
+    "@babel/core": "^7.17.8",
+    "@babel/preset-env": "^7.16.11",
+    "babel-jest": "^27.5.1",
+    "chromedriver": "^110.x.x",
+    "geckodriver": "^3.0.1",
+    "jest": "^27.5.1",
+    "jest-junit": "^13.0.0",
+    "selenium-webdriver": "4.1.1"
+  }
+}
